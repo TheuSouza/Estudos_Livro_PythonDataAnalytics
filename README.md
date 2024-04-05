@@ -1,2 +1,2 @@
 # PythonDataAnalytics
-Arquivos Estudo do Livro Python para análise de dados: Tratamento de dados com Pandas, NumPy e IPython.
+Arquivos Estudo do Livro _Python para análise de dados_ Tratamento de dados com Pandas, NumPy e IPython.
